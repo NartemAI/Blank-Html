@@ -1,7 +1,6 @@
 # Blank-Html
 Profesional blank Html
 
-'''
 <!DOCTYPE html>
 <html>
   <head>
@@ -16,9 +15,4 @@ Profesional blank Html
     ...
   </body>
 </html>
-'''
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
